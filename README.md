@@ -1,1 +1,6 @@
 # Letter-Press
+[In this project I have made a game which is actually based on typing skills. There will be five stages of difficulties .Letters will come from console window inside a box .Letters will be random and will drop from random positions. As the difficulty increases number of letters increases with greater speed. Each round contains five lives and lives will reduce as user in unable to press the correct letter shown in console. As user press the correct letter, score will be added. As the difficulty increases number of score increase. I have changed the color of background screen when game starts to white so that it is visible and user friendly.
+At the start of the program project name is printed which is read from a file in the black console screen.
+Then it will ask you for username and password which I have saved it for security purpose .Password is not shown, instead of characters it will show * similar to popular software’s such as facebook, gmail and etc.
+In this program there is an option to see the score of the users who had played it before .The score sheet will show the score in descending orders, we can also say it high score sheet. It also includes serial number and user name. There are two files in this project, one for displaying project name in start of the program and second one for user’s name.
+
