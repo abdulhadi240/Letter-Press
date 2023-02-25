@@ -9,6 +9,9 @@ In this program there is an option to see the score of the users who had played 
 
 ![25 02 2023_17 03 57_REC](https://user-images.githubusercontent.com/70109681/221356424-5bafdae2-2835-43dc-906a-df31779a3881.png)
 
+![Screenshot 2023-02-25 171920](https://user-images.githubusercontent.com/70109681/221356495-bd0df08a-5629-46f2-8c05-bf0d0c604603.png)
+
+
 ![25 02 2023_17 05 25_REC](https://user-images.githubusercontent.com/70109681/221356426-f9b76e52-a4ac-4646-9c16-c07b0c6dce87.png)
 
 ![25 02 2023_17 06 08_REC](https://user-images.githubusercontent.com/70109681/221356427-60646e83-fd7c-4233-9991-aa7970e1a531.png)
